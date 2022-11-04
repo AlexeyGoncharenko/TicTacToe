@@ -1,6 +1,6 @@
 /**
  * @autrhor Alexey Goncharenko
- * That's a simple implementation of Tic Tac Toe Game
+ * That's a simple implementation of TicTacToe Game
  */
 
 public class MainClass {
